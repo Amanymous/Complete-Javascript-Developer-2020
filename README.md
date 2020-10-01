@@ -11,4 +11,6 @@ For Typescript follow these link:
 https://www.educative.io/blog/advanced-typescript-concepts
 https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshell-cb2fdeeffe6e
 
-extract arry with push calculator app completed
+1)extract arry with push calculator app completed
+2)Efficient Development & Debugging
+3) Working with Control Structures (if Statements, Loops, Error Handling)
