@@ -14,3 +14,4 @@ https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshe
 1)extract arry with push calculator app completed
 2)Efficient Development & Debugging
 3) Working with Control Structures (if Statements, Loops, Error Handling)
+4)Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
