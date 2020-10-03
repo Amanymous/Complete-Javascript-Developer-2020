@@ -11,7 +11,7 @@ For Typescript follow these link:
 https://www.educative.io/blog/advanced-typescript-concepts
 https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshell-cb2fdeeffe6e
 
-1)extract arry with push calculator app completed
-2)Efficient Development & Debugging
-3) Working with Control Structures (if Statements, Loops, Error Handling)
-4)Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript
+<h3>1)extract arry with push calculator app completed</h3>
+<h3>2)Efficient Development & Debugging</h3>
+<h3>3) Working with Control Structures (if Statements, Loops, Error Handling)</h3>
+<h3>4)Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript</h3>
