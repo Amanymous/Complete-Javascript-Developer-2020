@@ -15,3 +15,10 @@ https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshe
 <h3>2)Efficient Development & Debugging</h3>
 <h3>3) Working with Control Structures (if Statements, Loops, Error Handling)</h3>
 <h3>4)Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript</h3>
+<h3>5)Behind the Scenes & The (Weird) Past (ES3, ES5) & Present (ES6+) of JavaScript</h3>
+<h3>6)More on Functions</h3>
+<h3>7)Working with the DOM (Browser HTML Code) in JavaScript</h3>
+<h3>8)More on Arrays & Iterables</h3>
+<h3>9)More on Objects</h3>
+<h3>10)Classes & Object-oriented Programming (OOP)</h3>
+<h3>11)Deep Dive Constructor Functions & Prototypes</h3>
