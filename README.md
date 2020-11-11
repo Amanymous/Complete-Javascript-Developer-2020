@@ -2,7 +2,7 @@
 javascript complete beginners to advanced
 
 for core es5 and es6 concepts follow both links:
-
+<h1>Rediscovering JavaScript: Master ES6, ES7, and ES8 pdf book</h1>
 https://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
 https://www.freecodecamp.org/news/learn-these-core-javascript-concepts-in-just-a-few-minutes-f7a16f42c1b0/
 
